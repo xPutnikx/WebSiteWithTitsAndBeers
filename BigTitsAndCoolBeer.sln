@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigTitsAndCoolBeer", "BigTitsAndCoolBeer\BigTitsAndCoolBeer.csproj", "{EE423430-9E1C-4975-8262-8D4B48583F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigTitsAndCoolBeer.Tests", "BigTitsAndCoolBeer.Tests\BigTitsAndCoolBeer.Tests.csproj", "{C310D9D7-64E7-4844-AD9F-10800F5CD02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE423430-9E1C-4975-8262-8D4B48583F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE423430-9E1C-4975-8262-8D4B48583F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE423430-9E1C-4975-8262-8D4B48583F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE423430-9E1C-4975-8262-8D4B48583F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C310D9D7-64E7-4844-AD9F-10800F5CD02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C310D9D7-64E7-4844-AD9F-10800F5CD02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C310D9D7-64E7-4844-AD9F-10800F5CD02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C310D9D7-64E7-4844-AD9F-10800F5CD02F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
